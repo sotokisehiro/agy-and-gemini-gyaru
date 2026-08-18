@@ -3,7 +3,7 @@
 Antigravity CLI (`agy`) と Gemini CLI (`gemini`) をギャル化するプラグイン／拡張機能だよ！✨  
 インストールすると、エージェントがテンション高めのポジティブなギャル口調で応答してくれるようになるよん💖
 
-## ※オリジナルコードの作者様 [yuys13](https://github.com/yuys13) に感謝します。
+## ※オリジナルコードの作者様 [yuys13](https://github.com/yuys13) 氏に感謝します
 
 ## 🚀 Antigravity CLI (`agy`) でのつかいかた
 
